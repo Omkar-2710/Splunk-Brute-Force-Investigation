@@ -68,7 +68,7 @@ This project uses synthetic data created for educational purposes. It does not r
 
 
 
-## 8. Project Screenshots
+## 9. Project Screenshots
 
 Below are the screenshots from my Splunk investigation.
 
@@ -96,6 +96,6 @@ Below are the screenshots from my Splunk investigation.
 
 The external-looking IP addresses in the dataset are reserved documentation addresses and do not represent real attackers.
 
-## 9. Learning Outcome
+## 10. Learning Outcome
 
 This project helped me understand how a SOC Analyst can investigate login activities, identify suspicious patterns, use SPL queries and document investigation findings.
