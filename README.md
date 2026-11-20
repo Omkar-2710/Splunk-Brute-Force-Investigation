@@ -67,42 +67,32 @@ This pattern was consistent with possible brute-force activity followed by succe
 This project uses synthetic data created for educational purposes. It does not represent a real-world security incident.
 
 
+
 ## 8. Project Screenshots
 
 Below are the screenshots from my Splunk investigation.
 
 ### 1. Dataset Ingestion & Validation
-![Dataset Ingestion](screenshots/Dataset%20Ingestion%20%26%20Validation.png)
+![Dataset Ingestion](screenshots/Screenshot%201%20%E2%80%93%20Dataset%20Ingestion%20%26%20Validation.png)
 
 ### 2. Windows Failed Login Analysis
-![Failed Login Analysis](screenshots/Windows%20Failed%20Login%20Analysis.png)
+![Failed Login Analysis](screenshots/Screenshot%202%20%E2%80%93%20Windows%20Failed%20Login%20Analysis.png)
 
 ### 3. Top Accounts with Failed Logins
-![Top Accounts](screenshots/Top%20Accounts%20with%20Failed%20Logins.png)
+![Top Accounts](screenshots/Screenshot%203%20%E2%80%93%20Top%20Accounts%20with%20Failed%20Logins.png)
 
 ### 4. Source IP Investigation
-![Source IP Investigation](screenshots/Source%20IP%20Investigation.png)
+![Source IP Investigation](screenshots/Screenshot%204%20%E2%80%93%20Source%20IP%20Investigation.png)
 
 ### 5. Brute Force Pattern Identification
-![Brute Force Pattern](screenshots/Brute%20Force%20Pattern%20Identification.png)
+![Brute Force Pattern](screenshots/Screenshot%205%20%E2%80%93%20Brute%20Force%20Pattern%20Identification.png)
 
 ### 6. Failed Login Followed by Successful Login
-![Login Correlation](screenshots/Failed%20Login%20Followed%20by%20Successful%20Login.png)
+![Login Correlation](screenshots/Screenshot%206%20%E2%80%93%20Failed%20Login%20Followed%20by%20Successful%20Login.png)
 
 ### 7. Detailed Account Investigation
-![Account Investigation](screenshots/Detailed%20Account%20Investigation.png)
+![Account Investigation](screenshots/Screenshot%207%20%E2%80%93%20Detailed%20Account%20Investigation.png)
 
-## 9. SPL Queries
-
-All seven investigation queries are available here:
-
-[View SPL Investigation Queries](queries/SPL-Queries.md)
-
-## 10. Dataset
-
-The project uses a synthetic Windows authentication dataset containing 7,384 events.
-
-The dataset is provided for educational and practice purposes only. It does not represent a real security incident.
 
 The external-looking IP addresses in the dataset are reserved documentation addresses and do not represent real attackers.
 
